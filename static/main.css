@@ -1,0 +1,22 @@
+body {
+    background-color: #f8f9fa;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+.jumbotron {
+    background-color: #cc1b0e;
+    color: #fff;
+    padding: 50px 0;
+}
+
+#pokemonDetails {
+    padding: 20px;
+}
+
+.card {
+    margin-top: 20px;
+}
